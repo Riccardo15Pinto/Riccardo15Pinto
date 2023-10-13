@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi everyone!!</h2>
+
+###
+
+<p align="left">I'm Riccardo, a young full-stack web developer with a great passion for technology</p>
 
 ###
 
